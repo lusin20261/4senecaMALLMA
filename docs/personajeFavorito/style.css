@@ -3,7 +3,7 @@
 ======================================*/
 :root {
     --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-secundario: #baa7dd;
 }
 
 /*======================================
@@ -25,7 +25,7 @@ body {
     );
 
     min-height: 100vh;
-    color: #333;
+    color: #8b68ac;
 }
 
 /*======================================
@@ -46,7 +46,7 @@ body {
         var(--color-secundario)
     );
 
-    color: white;
+    color: rgb(210, 190, 255);
 }
 
 .hero-content {
@@ -91,7 +91,7 @@ main {
 
     border-radius: 20px;
 
-    box-shadow: 0 10px 25px rgba(0,0,0,.15);
+    box-shadow: 0 10px 25px rgba(188, 137, 255, 0.15);
 
     transition: .3s;
 }
