@@ -1,0 +1,7 @@
+a = input("de q fandom eres¿")
+b = input("de q pop eres o de q grupo¿")
+c = input("como te llamas¿")
+d = input("cual es tu cansion fav de katseye¿")
+e = input("cual es tu bias¿")
+print("hola",c,"eres",a,"te gusta la musica",d)
+print("te gusta la integrante",e,"te gusta el grupo",b)
